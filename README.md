@@ -1,5 +1,5 @@
 
-![Profile Photo](101.jpg)
+
 
 📞 612-290-0997  
 📧 [danielakama23@gmail.com](mailto:danielakama23@gmail.com)  
