@@ -41,12 +41,6 @@ Designed an NLP chatbot for AutoProphet investment app. Reduced support inquirie
 
 ## 💼 Work Experience
 
-### Food Service Associate  
-**Michigan Technological University (Husky Eats)** – Houghton, MI  
-_Aug 2024 – Present_  
-- Assisted chefs and maintained a hygienic dining environment.
-- Ushered and guided students and faculty during service.
-
 ### Data Science Project Intern  
 **The Sparks Foundation** – Remote  
 _Jan 2024 – Feb 2024_  
