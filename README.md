@@ -76,8 +76,10 @@ _May 2022 – Aug 2022_
 
 ## 🔗 Additional Links
 
+- [Infectious Disease Monitoring and Architecture design](https://github.com/Daniel1999Akama/Daniel-Akama-Nyamweya)
 - [Swahili News Classifier Repo](https://github.com/Daniel1999Akama/News-Classification)  
 - [Churn Model Repo](https://github.com/Daniel1999Akama/moringa_phase4_project)  
 - [Sentiment Dashboard Repo](https://github.com/Daniel1999Akama/moringa_phase3_project)  
 - [FAQ Chatbot Project (AutoProphet)](https://github.com/jeffreywallphd/AutoProphet/tree/FALL2024-BA5200-Team5/prototypes/Fall2024/Team5/AutoProp_Codes_1)
+  
 
