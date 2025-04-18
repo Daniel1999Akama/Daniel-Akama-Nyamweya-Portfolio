@@ -1,4 +1,3 @@
-# Daniel Akama Nyamweya
 
 ![Profile Photo](101.jpg)
 
